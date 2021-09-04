@@ -83,7 +83,7 @@ VTube Studio目前支持以下输入参数，可以将它们映射到输出的Li
 | **EyeLeftY** | 眼部追踪 | ✔️ | ❌ | ✔️ |
 | **EyeRightX** | 眼部追踪 | ✔️ | ❌ | ✔️ |
 | **EyeRightY** | 眼部追踪 | ✔️ | ❌ | ✔️ |
-| **CheekPuff** | 检测脸颊鼓起 | ✔️ | ❌ | ❌ |
+| **CheekPuff** | 检测腮帮鼓起 | ✔️ | ❌ | ❌ |
 | **BrowLeftY** | 左眉上/下移动 | ✔️ | ❌ | ✔️ |
 | **BrowRightY** | 右眉上/下移动 | ✔️ | ❌ | ✔️ |
 | **VoiceFrequency*** | 基于检测到的音素 | ❌ | ❌ | ✔️ |
