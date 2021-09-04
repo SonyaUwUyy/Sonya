@@ -27,7 +27,7 @@ VTS 手册 (1.10.31.a)
 * [连接问题&解决方案](https://github.com/Elegetic/VTubeStudio/wiki/%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98&%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
 * [[截图与分享]]
 * [[道具系统]]
-* [插件 (YouTube, Twitch等平台)](https://github.com/DenchiSoft/VTubeStudio/wiki/Plugins)
+* [插件 (YouTube, Twitch等平台)](https://github.com/Elegetic/VTubeStudio/wiki/%E6%8F%92%E4%BB%B6)
 * [[VTube Studio模型文件]]
 * [[常见问题]]
 * [[隐私政策、许可与更多条款]]
