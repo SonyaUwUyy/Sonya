@@ -12,7 +12,7 @@ VTS 手册 (1.10.31.a)
 - [邮箱](mailto:denchi@denchisoft.com)
 
 ### [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/usagi_icon_small_w.png|height=36px|width=30px]] 文档
-* [简介&需求](https://github.com/Elegetic/VTubeStudio/wiki/%E7%AE%80%E4%BB%8B-&-%E9%9C%80%E6%B1%82)
+* [简介&必要条件](https://github.com/Elegetic/VTubeStudio/wiki/%E7%AE%80%E4%BB%8B-&-%E9%9C%80%E6%B1%82)
 * [[Android vs. iPhone vs. 网络摄像头]]
 * [[入门指南]]
 * [[载入自定义模型]]
