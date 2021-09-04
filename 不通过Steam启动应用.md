@@ -1,4 +1,4 @@
-VTube Studio仅通过Steam发行，所有更新也以该形式分发。然而，在下载后，**你就可以不通过Steam启动VTube Studio**。
+VTube Studio仅通过Steam发行，所有更新也以该形式分发。然而，在下载后，**你可以不通过Steam直接启动VTube Studio**。
 
 你甚至可以通过`start_without_steam.bat`文件启动多个VTube Studio，然后就可以使用多个网络摄像头或手机来控制这些模型。你也可以用同一个网络摄像头来控制多个VTube Studio实例。
 
