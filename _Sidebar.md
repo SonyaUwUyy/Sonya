@@ -2,7 +2,7 @@
 
 VTS 手册 (1.10.31.a)
 =====================
-- [[主页]]
+- [[Home]]
 - [[插件]]
 
 ### [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/usagi_icon_small_w.png|height=36px|width=30px]] 帮助 
