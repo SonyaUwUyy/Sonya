@@ -75,7 +75,7 @@ VTube Studio使用你的本地网络（TCP/UDP）从手机向PC或Mac发送面�
 **在macOS上，OBS不支持该功能**，所以请选择任意你想要的颜色，然后在OBS的视频捕捉中使用 **“色度键”** 滤镜来进行颜色移除。需要记住的是，你不能在你的Live2D模型中使用该颜色，否则模型的某些部分也将会变得透明。
 
 在OBS中添加一个背景，然后增加一个VTube Studio的画面捕获。要做到这一点，请选择 **“游戏源”**。该捕捉支持透明背景，但仅适用于Windows。
-在macOS，该选项被称为 **“Syphon客户端”**，但在macOS 10.14 Mojave后就无法使用了（参见https://github.com/zakk4223/SyphonInject），所以你需要使用普通的窗口捕获与色度键滤镜。
+在macOS，该选项被称为 **“Syphon客户端”**，但在macOS 10.14 Mojave后就无法使用了(参见https://github.com/zakk4223/SyphonInject), 所以你需要使用普通的窗口捕获与色度键滤镜。
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_4.png" width="394" /> 
