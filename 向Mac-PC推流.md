@@ -6,7 +6,7 @@ VTube Studio的主要用途是使用你的手机进行面部追踪，在Mac/PC�
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
 VTube Studio使用你的本地网络（TCP/UDP）从手机向PC或Mac发送面部追踪数据。取决于你的家庭网络设置，可能会出现连接问题，原因多为防火墙设置。更多信息参见以下章节： 
 
-[连接问题 & 解决方案](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-%26amp%3B-Troubleshooting)
+[连接问题 & 解决方案](https://github.com/Elegetic/VTubeStudio/wiki/%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98&%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
 
