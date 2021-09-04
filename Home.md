@@ -6,7 +6,7 @@ VTube Studio是一款可用于 **[iPhone/iPad](https://apps.apple.com/us/app/vtu
 
 想看些使用实例吗？[在推特上搜索“VTube Studio”](https://twitter.com/search?q=VTube%20Studio&f=video)即可！
 
-本在线手册包含了VTube Studio所有功能介绍，以及部分教程。请下滑从主菜单中选择章节。
+本在线手册包含了VTube Studio所有功能介绍，以及部分教程。请从主菜单中下滑选择章节。
 
 [[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/screenshots/screenshots_all.png|alt="Screenshots"]]](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/screenshots/screenshots_all.png)
 
