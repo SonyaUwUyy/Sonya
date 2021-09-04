@@ -1,4 +1,4 @@
-[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/logo/vts_logo_transparent.png|alt="VTube Studio Logo"|height=230px|width=230px]]](https://github.com/DenchiSoft/VTubeStudio/wiki)
+[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/logo/vts_logo_transparent.png|alt="VTube Studio Logo"|height=230px|width=230px]]](https://github.com/Elegetic/VTubeStudio/wiki)
 
 VTS 手册 (1.10.31.a)
 =====================
