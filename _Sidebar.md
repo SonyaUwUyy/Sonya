@@ -34,5 +34,4 @@ VTS 手册 (1.10.31.a)
 
 <br/>
 
-[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_fly_all_sequence_small.png|alt="别点这里！！"]]]
-(https://github.com/Elegetic/VTubeStudio/wiki/_Secret-Page)
+[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_fly_all_sequence_small.png|alt="别点这里！！"]]](https://github.com/Elegetic/VTubeStudio/wiki/_Secret-Page)
