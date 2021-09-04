@@ -19,7 +19,7 @@ VTS 手册 (1.10.31.a)
 * [[载入自定义背景]]
 * [[VTube Studio设置]]
 * [[VTS模型设置]]
-* [表情](https://github.com/DenchiSoft/VTubeStudio/wiki/Expressions-(a.k.a.-Stickers-or-Emotes))
+* [[表情]]
 * [[动画]]
 * [[动画、表情、面部追踪、物理等之间的交互]]
 * [[向Mac/PC推流]]
