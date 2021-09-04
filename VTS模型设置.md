@@ -55,7 +55,7 @@ VTube Studio曾忽略了Live2D物理设置的“有效性”，这在近期更�
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
 如果你模型的Live2D参数在VTS模型设置中有明显浮动，模型本身却没有移动的话，最有可能的原因是一个表情、动画或物理系统覆盖了面部追踪值。这将在以下章节中详细解释： 
 
-[动画、表情、面部追踪、物理等之间的交互](https://github.com/DenchiSoft/VTubeStudio/wiki/Interaction-between-Animations%2C-Tracking%2C-Physics%2C-etc.)
+[动画、表情、面部追踪、物理等之间的交互](https://github.com/Elegetic/VTubeStudio/wiki/%E5%8A%A8%E7%94%BB%E3%80%81%E8%A1%A8%E6%83%85%E3%80%81%E9%9D%A2%E9%83%A8%E8%BF%BD%E8%B8%AA%E3%80%81%E7%89%A9%E7%90%86%E7%AD%89%E4%B9%8B%E9%97%B4%E7%9A%84%E4%BA%A4%E4%BA%92)
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
 ## 支持的输入参数（面部追踪等）
