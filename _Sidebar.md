@@ -2,8 +2,8 @@
 
 VTS 手册 (1.10.31.a)
 =====================
-- [[Home]]
-- [[Plugins]]
+- [[主页]]
+- [[插件]]
 
 ### [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/usagi_icon_small_w.png|height=36px|width=30px]] 帮助 
 - [Discord](https://discord.gg/VTubeStudio)
@@ -23,7 +23,7 @@ VTS 手册 (1.10.31.a)
 * [[动画]]
 * [[动画、表情、面部追踪、物理等之间的交互]]
 * [[向Mac/PC推流]]
-* [[在不使用Steam的情况下启动应用]]
+* [[不通过Steam启动应用]]
 * [[连接问题&解决方案]]
 * [[截图与分享]]
 * [[道具系统]]
