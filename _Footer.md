@@ -1,0 +1,1 @@
+<img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/kspDoki.png" width="24" /> 如果你遇到了任何该手册中没有回答的问题，请到[VTube Studio Discord](https://discord.gg/VTubeStudio)询问<a href="https://discord.gg/VTubeStudio"><img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/discord_logo_new.png" width="34" /></a> !!
