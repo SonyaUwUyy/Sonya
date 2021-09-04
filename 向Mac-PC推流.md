@@ -53,9 +53,9 @@ VTube Studio使用你的本地网络（TCP/UDP）从手机向PC或Mac发送面�
 
 ## WiFi替代: 通过USB从iOS向PC/Mac推流
 
-若您使用iPhone/iPad进行追踪，你也可以使用USB有线连接来实时传输面部追踪数据。这比WiFi传输更为稳定，但也是一个经过测试的新功能。目前，这是更为推荐的传输面部追踪数据的方式。
+若您使用iPhone/iPad进行追踪，你也可以使用USB有线连接来实时传输面部追踪数据。这比WiFi传输更为稳定，同时也是一个经过测试的新功能。目前，这是更为推荐的传输面部追踪数据的方式。
 
-要开始连接，首先启用手机上“连接USB”选项。若电脑上WiFi连接面部追踪属于启用状态，因二者不兼容，该选项也会将它停用。随后，在PC/Mac端的应用上启用“连接USB”选项。
+要开始连接，首先启用手机上的“连接USB”选项。如果原本使用WiFi将面部追踪传输至电脑，会因二者不兼容而将其停用。
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/usb_con_pc_1.png]]
 
