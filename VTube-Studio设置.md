@@ -115,7 +115,7 @@
 
 `<VTS-App-Path>/VTube Studio_Data/StreamingAssets/Config/webcam_calibration.json`
 
-关于不同追踪质量水平的细节，请参考VTube Studio中选择它们时所显示的信息。**注意：只有五级支持单眼眨动。**
+关于不同追踪质量等级的细节，请参考VTube Studio中选择它们时所显示的信息。**注意：只有五级支持单眼眨动。**
 
 相机会在开启后立即进行校准，你也可以通过按钮或热键进行手动校准。该功能会使面部位置重置为向前。**校准十分重要，所以在运行时，请务必保持面无表情平视相机。**
 
