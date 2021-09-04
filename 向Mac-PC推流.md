@@ -64,7 +64,7 @@ VTube Studio使用你的本地网络（TCP/UDP）从手机向PC或Mac发送面�
 * iOS设备已解锁并正在运行VTube Studio应用。
 * iOS端应用显示“USB已启用。等待电脑应用连接。”
 * iPhone已与电脑“配对”（手机必须“信任”该电脑）。可以通过检查iTunes上是否可以查看该iPhone文件目录来确认这点。
-* **重要：请确保你安装了iTunes！！** iTunes在Windows/MacOS上会启动一些与iPhone通信所需的后台服务。iTunes本身无需启动，但请务必确认已安装并至少运行过一次。如果USB连接依旧失败，请尝试在打开VTube Studio前先启动iTunes。
+* **重要提醒：请确保你安装了iTunes！！** iTunes在Windows/MacOS上会启动一些与iPhone通信所需的后台服务。iTunes本身无需启动，但请务必确认已安装并至少运行过一次。如果USB连接依旧失败，请尝试在打开VTube Studio前先启动iTunes。
 
 ## 使用OBS录制 （窗口透明）
 
