@@ -52,7 +52,7 @@ VSeeFace现在应该自动连接到了VTube Studio并启用追踪。如果你在
 
 在VTube Studio中，建议保持关闭相机预览，并调暗屏幕，以在节能的同时确保iPhone/iPad不会发热。你也可以/应该在使用时保持充电。设备在正常情况下应该不会过热，尤其是较新的设备。较旧的设备（如iPhone X）可能会温度偏高，但不应过热。
 
-## 常见问题（iPhone/iPad无法连接）
+## 连接问题解决方案（iPhone/iPad无法连接）
 
 如果VSeeFace与VTube Studio无法建立连接，通常会与网络问题有关。可能是以下情况之一：
 
