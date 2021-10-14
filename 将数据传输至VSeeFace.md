@@ -15,7 +15,7 @@ VSeeFace是由Emiliana（[@emiliana_vt](https://twitter.com/emiliana_vt)）制�
 
 ### VTube Studio设置
 
-然后，在iPhone/iPad上[https://github.com/Elegetic/VTubeStudio/wiki/%E7%AE%80%E4%BB%8B-&-%E5%BF%85%E8%A6%81%E7%8E%AF%E5%A2%83](下载)并启动VTube Studio。关于受支持的iOS设备列表，查详见“[简介&必要环境](https://github.com/Elegetic/VTubeStudio/wiki/%E7%AE%80%E4%BB%8B-&-%E5%BF%85%E8%A6%81%E7%8E%AF%E5%A2%83)”页面。
+然后，在iPhone/iPad上[下载](https://github.com/Elegetic/VTubeStudio/wiki/%E7%AE%80%E4%BB%8B-&-%E5%BF%85%E8%A6%81%E7%8E%AF%E5%A2%83)并启动VTube Studio。关于受支持的iOS设备列表，查详见“[简介&必要环境](https://github.com/Elegetic/VTubeStudio/wiki/%E7%AE%80%E4%BB%8B-&-%E5%BF%85%E8%A6%81%E7%8E%AF%E5%A2%83)”页面。
 在VTube Studio中，主菜单中有三个图标与使用VSeeFace相关。
 
 * [1]: 摄像头预览。将会显示带有面部遮罩的脸。
