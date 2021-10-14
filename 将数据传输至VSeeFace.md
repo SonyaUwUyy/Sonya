@@ -67,4 +67,4 @@ VSeeFace现在应该自动连接到了VTube Studio并启用追踪。如果你在
 ## 可以在哪里得到帮助？
 如果你需要VTube Studio的使用帮助，请到[VTube Studio Discord](https://discord.gg/VTubeStudio)询问。
 
-如果你对于VSeeFace有任何疑问或建议，请到[@Virtual_Deat](https://twitter.com/Virtual_Deat) Discord的#**vseeface**频道：[https://discord.gg/BjBgk7k](https://discord.gg/BjBgk7k)
+如果你对于VSeeFace有任何疑问或建议，请至[@Virtual_Deat](https://twitter.com/Virtual_Deat) Discord的#**vseeface**频道：[https://discord.gg/BjBgk7k](https://discord.gg/BjBgk7k)
