@@ -34,7 +34,8 @@ VSeeFace是由Emiliana（[@emiliana_vt](https://twitter.com/emiliana_vt)）制�
 设置界面如下：
 
 ![](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vseeface_setup_2.png)
-你只需要点击“启用”即可。VTube Studio现在可以将blendshape数据传输至VSeeFace了。一旦VSeeFace连接成功（若没有，则继续停留在设置界面），屏幕将自动调暗，进入节能状态。要关闭该状态，可以选择停用“直播模式”（在第一栏中稍微向上拉，它在“推流至电脑（WiFi）”下方）。
+
+你只需点击“启用”即可。VTube Studio现在可以将blendshape数据传输至VSeeFace了。一旦VSeeFace连接成功（若没有，则继续停留在设置界面），屏幕将自动调暗，进入节能状态。要关闭该状态，可以选择停用“直播模式”（在第一栏中稍微向上拉，它在“推流至电脑（WiFi）”下方）。
 
 **注意**：要想查看VSeeFace所需的IP/端口，你需要按下“显示IP列表”按钮。
 
