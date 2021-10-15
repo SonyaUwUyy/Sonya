@@ -1,6 +1,7 @@
 ## 准备工作
 
 你可以使用单个网络摄像头或iPhone/Android设备控制多个VTube Studio进程。
+
 要达到该效果，首先你需要启动多个VTube Studio，可以用该按钮实现：
 ![](https://github.com/Elegetic/Photos/blob/main/VTS/start_new_vts_instance_button.png)
 或者，你也可以使用与VTube Studio`.exe`同目录的`start_without_steam.bat`文件，参见[“不通过Steam启动应用”](https://github.com/Elegetic/VTubeStudio/wiki/%E4%B8%8D%E9%80%9A%E8%BF%87Steam%E5%90%AF%E5%8A%A8%E5%BA%94%E7%94%A8)。这样就有多个VTube Studio同时运行了。
