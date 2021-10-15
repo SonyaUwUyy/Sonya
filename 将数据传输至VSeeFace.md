@@ -34,7 +34,7 @@ VSeeFace是由Emiliana（[@emiliana_vt](https://twitter.com/emiliana_vt)）制�
 
 要想查看VSeeFace设置，你需要在主菜单中打开设置栏并下拉到第一栏的最底部。
 
-并将看到如下设置界面：
+设置界面如下：
 
 ![](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vseeface_setup_2.png)
 
