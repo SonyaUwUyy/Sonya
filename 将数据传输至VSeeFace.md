@@ -2,7 +2,7 @@
 
 ## VSeeFace是什么？
 
-VSeeFace是由Emiliana（[@emiliana_vt](https://twitter.com/emiliana_vt)）制作的集免费与高自由度于一身、支持面部与手部追踪VRM与[VSFAvatar](https://www.vseeface.icu/#vsfavatar)形象的、适用于**3D虚拟YouTuber**（与Live2D相对应）的木偶程序。
+VSeeFace是由Emiliana（[@emiliana_vt](https://twitter.com/emiliana_vt)）制作的集免费与高自由度于一身、支持面部与手部追踪VRM与[VSFAvatar](https://www.vseeface.icu/#vsfavatar)形象的、适用于**3DVTuber**（与Live2D相对应）的木偶程序。
 它主要使用网络摄像头追踪控制3D VTuber形象，但最近通过各类第三方应用，包括VTube Studio，增加了对高质量iPhone追踪的支持。
 使用该功能完全无需PC/Mac端的VTube Studio。你的iPhone/iPad可以直接通过本地网络（不支持USB连接）连接到电脑端的VSeeFace。
 如果你是一名有iPhone的3D VTuber，体验一下VSeeFace吧！！
