@@ -16,7 +16,7 @@ VSeeFace是由Emiliana（[@emiliana_vt](https://twitter.com/emiliana_vt)）制�
 ### VTube Studio设置
 
 接着，在iPhone/iPad上[下载](https://github.com/Elegetic/VTubeStudio/wiki/%E7%AE%80%E4%BB%8B-&-%E5%BF%85%E8%A6%81%E7%8E%AF%E5%A2%83)并启动VTube Studio。关于受支持的iOS设备列表，查详见“[简介&必要环境](https://github.com/Elegetic/VTubeStudio/wiki/%E7%AE%80%E4%BB%8B-&-%E5%BF%85%E8%A6%81%E7%8E%AF%E5%A2%83)”页面。
-在VTube Studio中，主菜单中有三个图标与使用VSeeFace相关。
+在VTube Studio中，主菜单上有三个图标与VSeeFace相关。
 
 * 摄像头预览。将会显示带有面部遮罩的脸。
   * **注意：请务必在安装iPhone/iPad后至少点按该图标一次，否则将无法初始化追踪。**
@@ -37,7 +37,7 @@ VSeeFace是由Emiliana（[@emiliana_vt](https://twitter.com/emiliana_vt)）制�
 
 你只需点击“启用”即可。VTube Studio现在可以将blendshape数据传输至VSeeFace了。一旦VSeeFace连接成功（若没有，则继续停留在设置界面），屏幕将自动调暗，进入节能状态。要关闭该状态，可以选择停用“直播模式”（在第一栏中稍微向上拉，它在“推流至电脑（WiFi）”下方）。
 
-**注意**：要想查看VSeeFace所需的IP/端口，你需要按下“显示IP列表”按钮。
+**注意**：要想查看VSeeFace所需的IP/端口，请点按“显示IP列表”。
 
 ### 连接VSeeFace
 
@@ -47,7 +47,7 @@ VSeeFace是由Emiliana（[@emiliana_vt](https://twitter.com/emiliana_vt)）制�
 
 请确保勾选了接收所有数据，包含“接收面部特征”（blendshapes），“接收头部运动”与“接收眼睛注视”。如果你已经使用blendshapes捕捉眼部，则不必勾选“接收眼睛注视”。
 
-VSeeFace现在应该自动连接到了VTube Studio并启用追踪。如果你在“启用”追踪时退出了iPhone/iPad端的VTube Studio，它会自动在下一次启动VTube Studio时重新启动。
+VSeeFace现在应自动连接到VTube Studio并启用追踪。如果你在“启用”追踪时退出了iPhone/iPad端的VTube Studio，它会自动在下一次启动VTube Studio时重新启动。
 
 最后，上拉检查/优化其他设置，如追踪敏感度、注视强度等。
 
@@ -57,7 +57,7 @@ VSeeFace现在应该自动连接到了VTube Studio并启用追踪。如果你在
 
 如果VSeeFace与VTube Studio无法建立连接，通常会与网络问题有关。可能是以下情况之一：
 
-* 防火墙或杀毒软件/安全软件阻挡了连接。为测试是否有效，请将VSeeFace添加为例外或者暂时关闭这些软件。请确保在测试后重新打开这些软件。
+* 防火墙或杀毒软件/安全软件阻挡了连接。为进行测试，请将VSeeFace添加为例外或者暂时关闭这些软件。请确保在测试后重新打开这些软件。
 * 你的电脑与iPhone/iPad不在同一WiFi/本地网络下。如果你的路由器有多个WiFi网络，请尝试所有网络。
 * 请确保电脑上的网络没被设置为“隐私”。
 
