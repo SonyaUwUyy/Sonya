@@ -14,7 +14,7 @@
 ### 使用iPhone/Android网络追踪
 
 **注意**：若使用USB而不是网络追踪，请下拉至“**使用iPhone USB连接**”。
-假设你启动了五个VTS进程。当在同一个端口上启动两次网络服务器时，VTube Studio会自动选择下一个可用端口启动连接，原端口号则会划以删除线来表示。
+假设你启动了五个VTS进程。当在同一个端口上启动两次网络服务器时，VTube Studio会自动选择下一个可用端口启动连接，原端口号则会被划以删除线。
 ![](https://github.com/Elegetic/Photos/blob/main/VTS/network_server_auto_ip.png)
 这五个进程分别在以下端口运行：
 
