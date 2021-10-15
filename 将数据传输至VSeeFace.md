@@ -11,11 +11,11 @@ VSeeFace是由Emiliana（[@emiliana_vt](https://twitter.com/emiliana_vt)）制�
 
 ### VSeeFace设置
 
-首先，在VSeeFace中按通常流程设置你的3D模型，不需要额外添加设置。当你在iPhone/iPad上使用VSeeFace与VTube Studio时，它会完全支持iOS blendshapes。
+首先，在VSeeFace中按通常流程设置你的3D模型，不需要额外添加设置。当你在iPhone/iPad上使用VTube Studio与VSeeFace联动时，它会完全支持iOS blendshapes。
 
 ### VTube Studio设置
 
-然后，在iPhone/iPad上[下载](https://github.com/Elegetic/VTubeStudio/wiki/%E7%AE%80%E4%BB%8B-&-%E5%BF%85%E8%A6%81%E7%8E%AF%E5%A2%83)并启动VTube Studio。关于受支持的iOS设备列表，查详见“[简介&必要环境](https://github.com/Elegetic/VTubeStudio/wiki/%E7%AE%80%E4%BB%8B-&-%E5%BF%85%E8%A6%81%E7%8E%AF%E5%A2%83)”页面。
+接着，在iPhone/iPad上[下载](https://github.com/Elegetic/VTubeStudio/wiki/%E7%AE%80%E4%BB%8B-&-%E5%BF%85%E8%A6%81%E7%8E%AF%E5%A2%83)并启动VTube Studio。关于受支持的iOS设备列表，查详见“[简介&必要环境](https://github.com/Elegetic/VTubeStudio/wiki/%E7%AE%80%E4%BB%8B-&-%E5%BF%85%E8%A6%81%E7%8E%AF%E5%A2%83)”页面。
 在VTube Studio中，主菜单中有三个图标与使用VSeeFace相关。
 
 * 摄像头预览。将会显示带有面部遮罩的脸。
