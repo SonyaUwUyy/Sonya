@@ -1,4 +1,4 @@
-你可以在iPhone/iPad上使用VTube Studio将blendshape追踪数据传输到电脑端的[VSeeFace](https://www.vseeface.icu/)上，把iPhone的高质量追踪应用到你的3D模型上。该功能在VTube Studio的iOS版本中**完全免费**，所以你不必为使用它而购买专业版（当然，无论如何都十分感谢你的支持）。
+你可以在iPhone/iPad上使用VTube Studio将blendshape追踪数据传输到电脑端的[VSeeFace](https://www.vseeface.icu/)上，由此把iPhone的高质量追踪应用到你的3D模型上。该功能在VTube Studio的iOS版本中**完全免费**，所以你不必为使用它而购买专业版（当然，无论如何都十分感谢你的支持）。
 
 ## VSeeFace是什么？
 
