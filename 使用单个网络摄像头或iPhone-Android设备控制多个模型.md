@@ -10,7 +10,7 @@
 
 在VTube Studio中多次选择同一个网络摄像头即可。在这种情况下，摄像头只会执行一次面部追踪，所以不会有额外的CPU负荷。
 
-## 使用单个iPhone或Android设别控制多个VTube Studio进程
+## 使用单个iPhone或Android设备控制多个VTube Studio进程
 
 ### 使用iPhone/Android网络追踪
 
